@@ -1,6 +1,3 @@
 [submodule "libraries/RFControl"]
 	path = libraries/RFControl
 	url = https://github.com/TheOtherMarcus/RFControl.git
-[submodule "arduino-mk"]
-	path = arduino-mk
-	url = https://github.com/TheOtherMarcus/RFControl.git
